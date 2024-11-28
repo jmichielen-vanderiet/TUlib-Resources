@@ -1,0 +1,1 @@
+Background information about the development of umbrellas through the ages can be found in books. You can use the library’s search engine at the top of every TU Delft Library webpage to search for books, both printed and digital, with background or introductory information. You will find a description of each book, including where you can find it.
