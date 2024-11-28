@@ -1,4 +1,4 @@
-``` {figure} figures/incl_fig.PNG
+``` {figure} figures/hydro.PNG
 ---
 width: 50%
 name: monographfile_downloads
